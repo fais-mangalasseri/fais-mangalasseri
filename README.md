@@ -18,7 +18,7 @@
 
 ## ☕ `whoami`
 
-Hey — I'm **Fais**, a Senior Software Engineer from **India 🇮🇳** with **4+ years** turning messy requirements into calm, well-tested backends.
+Hey — I'm **Fais**, a Senior Software Engineer from **India 🇮🇳** with **3+ years** turning messy requirements into calm, well-tested backends.
 
 I work mostly in **Python** (Django, DRF, FastAPI, Flask, Odoo), I'm comfortable owning a feature end-to-end — from schema design and API contracts to Docker, Nginx, Jenkins and the 2 a.m. production patch nobody saw coming.
 
